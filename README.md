@@ -82,16 +82,6 @@ Timer and sensor-based automation system integrating hardware and software logic
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinishamp-tech&show_icons=true&theme=default&hide_border=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinishamp-tech&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🎯 **JEE Main 2025** — 86.04 Percentile
